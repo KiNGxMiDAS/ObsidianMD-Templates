@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "3e46fe946fb5d45e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5e5a500d93c7a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17a35e5da4d4fbf8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c62e535e9472b46a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f455b1493dfeeec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6612f246b3eca7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "206d57678110da25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "422decd7bf997aae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "c4deb669ca60e91a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a08b7334589e164f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0508fa172026344b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "580f1097e8e13930",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "57462dd7b861723d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2fc847baa037f42d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "17a35e5da4d4fbf8",
+  "lastOpenFiles": [
+    "30–39 Career & Education/31 Job Applications.md",
+    "Codee !! ~.md",
+    "00–09 Overview & Metadata/00 System Overview.md",
+    "00–09 Overview & Metadata/07 Inbox.md",
+    "30–39 Career & Education/30 Career Goals.md",
+    "10–19 Personal Development/11 – Time Management & Productivity.md",
+    "90–99 Reference & Resources/99 Misc.md",
+    "__ROOT__/Assets/PDFs/Computer Science ~ A Programmer’s Perspective.pdf",
+    "90–99 Reference & Resources/98 Backup & Recovery.md",
+    "90–99 Reference & Resources/97 Archives.md",
+    "90–99 Reference & Resources/96 Reference Notes.md",
+    "90–99 Reference & Resources/95 Quotes & Inspirations.md",
+    "90–99 Reference & Resources/94 Contacts Directory.md",
+    "90–99 Reference & Resources/93 Templates.md",
+    "90–99 Reference & Resources/92 Software Tools.md",
+    "90–99 Reference & Resources/91 Tutorials & Guides.md",
+    "90–99 Reference & Resources/90 Books & Articles.md",
+    "80–89 Technology & Projects/89 Misc.md",
+    "80–89 Technology & Projects/88 Tech Troubleshooting.md",
+    "80–89 Technology & Projects/87 Product Reviews & Comparisons.md",
+    "80–89 Technology & Projects/86 Maintenance Logs.md",
+    "80–89 Technology & Projects/85 Tools & Workflows.md",
+    "80–89 Technology & Projects/84 Research Topics.md",
+    "80–89 Technology & Projects/83 Personal Projects.md",
+    "80–89 Technology & Projects/82 Open Source Contributions.md",
+    "80–89 Technology & Projects/81 Coding & Programming.md",
+    "80–89 Technology & Projects/80 Technology Goals.md",
+    "00-09 Overview & Metadeta/Untitled",
+    "90–99 Reference & Resources",
+    "80–89 Technology & Projects",
+    "70–79 Hobbies & Interests",
+    "60–69 Home & Living",
+    "50–59 Finance",
+    "10–19 Personal Development",
+    "00–09 Overview & Metadata",
+    "10 Projects/Untitled"
+  ]
+}
