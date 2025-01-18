@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "469ecab734272a9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "098e18cb3e322012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2176a9a789bfa4d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content Creation Management Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Content Creation Management Strategy"
+            }
+          },
+          {
+            "id": "0fef79578a2e3269",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1722c6bcacf3148",
+    "type": "split",
+    "children": [
+      {
+        "id": "21a394ab3e2fc2c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a3e0e3cb6a70e00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f36abad0ed8dbced",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec6c1cb16e6016f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dac1df2d5c6bdd0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "956a2bdda4074b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5b28ebf4a882f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Content Creation Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Content Creation Ideas"
+            }
+          },
+          {
+            "id": "c685cce74fb9ed72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Content Creation Ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Content Creation Ideas"
+            }
+          },
+          {
+            "id": "841c2d9cf569501d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1acc1b295312e900",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Content Creation Ideas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Content Creation Ideas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0fef79578a2e3269",
+  "lastOpenFiles": [
+    "20 Platforms/20 Instagram.md",
+    "20 Platforms/21 Threads.md",
+    "Content Creation Management Strategy.md",
+    "Untitled.canvas",
+    "__main__.canvas",
+    "30 Content Bank/Video Essay ~ Coming of Age.md",
+    "30 Content Bank/39 Misc.md",
+    "30 Content Bank/33 Tutorials & Education Ideas.md",
+    "30 Content Bank/34 Entertainment & Fun Ideas.md",
+    "30 Content Bank/32 Long-form Content Ideas.md",
+    "30 Content Bank/31 Reels & Shorts Ideas.md",
+    "30 Content Bank/30 Ideas & Opinions.md",
+    "40 Tools of the Trade/40 Software.md",
+    "20 Platforms/26 Blogs.md",
+    "50 Analytics/55 Misc.md",
+    "50 Analytics/54 Content Recycling Plans (repurposing older content).md",
+    "50 Analytics/53 Lessons Learned (What works & doesn't).md",
+    "00 Overview & Strategy/Welcome.md",
+    "Content Creation Ideas.md",
+    "50 Analytics/52 AB Testing Ideas.md",
+    "50 Analytics/51 Follower Growth.md",
+    "50-50 Analytics/52 AB Testing Ideas",
+    "50 Analytics/50 Engagement.md",
+    "40 Tools of the Trade/45 Tracking & Improvement.md",
+    "50 Analytics",
+    "40 Tools of the Trade/44 Creative Prompts.md",
+    "40 Tools of the Trade/43 Influencer Collab Ideas.md",
+    "40 Tools of the Trade/42 Research Resources.md",
+    "40 Tools of the Trade/41 Scripts & Templates.md",
+    "40 Tools of the Trade",
+    "20 Platforms",
+    "10 Content Calendar",
+    "00 Overview & Strategy",
+    "30 Content Bank"
+  ]
+}

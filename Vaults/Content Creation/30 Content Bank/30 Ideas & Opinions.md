@@ -1,0 +1,1 @@
+Idea for a YT Channel (or tech page): Programming with the Arduino and running ChatGPT on microcontrollers  

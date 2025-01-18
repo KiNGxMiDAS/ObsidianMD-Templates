@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"25bb5ecfc1ad1007","type":"text","text":"Content Funnell","x":-120,"y":-620,"width":250,"height":60},
+		{"id":"5e1c6412ae7e8576","type":"text","text":"Introductory Posts","x":-425,"y":-480,"width":250,"height":60},
+		{"id":"66f7d0f4e2988476","type":"text","text":"Overlays for the Future","x":-700,"y":-305,"width":250,"height":50},
+		{"id":"9c6469e491695ebd","type":"text","text":"Weekly Posts","x":240,"y":-450,"width":250,"height":60},
+		{"id":"a627d32f924a153b","type":"text","text":"Long-form Reels","x":490,"y":-280,"width":250,"height":60},
+		{"id":"0ac53776648b94a4","x":-175,"y":-360,"width":400,"height":400,"type":"file","file":"Content Creation Management Strategy.md"}
+	],
+	"edges":[
+		{"id":"bb158f35ab703863","fromNode":"25bb5ecfc1ad1007","fromSide":"bottom","toNode":"9c6469e491695ebd","toSide":"top"},
+		{"id":"fe5b4232523aaf5a","fromNode":"5e1c6412ae7e8576","fromSide":"top","toNode":"25bb5ecfc1ad1007","toSide":"left"},
+		{"id":"12fbd2120b55ac6a","fromNode":"9c6469e491695ebd","fromSide":"right","toNode":"a627d32f924a153b","toSide":"top"},
+		{"id":"27d785a2052103ae","fromNode":"5e1c6412ae7e8576","fromSide":"bottom","toNode":"66f7d0f4e2988476","toSide":"top"}
+	]
+}
